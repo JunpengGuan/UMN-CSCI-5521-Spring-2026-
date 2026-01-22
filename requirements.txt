@@ -1,0 +1,7 @@
+# CSCI 5521 Machine Learning Fundamentals Core Dependencies
+numpy
+pandas
+scikit-learn
+matplotlib
+notebook
+ipykernel
